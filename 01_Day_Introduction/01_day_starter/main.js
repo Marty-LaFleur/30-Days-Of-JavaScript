@@ -1,12 +1,12 @@
 // the variable values can be accessed from other variable.js files
 const personalInfo = {
-    firstName = marty,lastName = lafleur,country = USA,city = Muncie,age = 52,isMarried = false;
+    firstName = marty,lastName = lafleur,country = USA,city = Muncie,age = 52,isMarried = false
 }
 var personalInfo;
     personalInfo = personalInfo;
   
 const geekyMathStuff = {
-    gravity = 9.81,boilingPoint = 100,PI = 3.14;
+    gravity = 9.81,boilingPoint = 100,PI = 3.14
 }
 var geekyMathStuff;
     geekyMathStuff = geekyMathStuff;
@@ -14,7 +14,7 @@ var geekyMathStuff;
 const morePersonalInfo = {
     name = marty,
     job = aWeSoMeOlOgIsT,
-    live = USA;
+    live = USA
     }
   
 var morePersonalInfo;
